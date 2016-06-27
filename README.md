@@ -18,8 +18,8 @@ Through Makers Academy I have had 12 weeks experience of regular  pair programmi
 
 |Project|Description|Technologies Used|
 |—|—|—|
-|[StreetFood](https://github.com/RobinHeathcote/streetFood.git)|A rails app for nomadic street food traders to be easily found by nearby potential customers.|Ruby on Rails, JavaScript, Amazon Web Services, OmniAuth, PostgreSQL, Heroku, Rspec, Capybara, Google Maps API.|
-|[Motivation](https://github.com/RobinHeathcote/Motivation.git)|Makers Academy final project. A rails back-end API and Angular.js front-end app using WOOP psychology to motivate users to achieve their wishes by making plans and outlining obstacles using a token authentication system. |Ruby on Rails, JSON, Angular.js, HTML, CSS, Materialise, Devise Token Auth, Ng-Token-Auth, PostgresSQL, Active Record, Protractor, Karma|
+|[StreetFood](https://github.com/RobinHeathcote/streetFood.git)|A rails app for nomadic street food traders to be easily found by nearby potential customers.|Ruby on Rails, JavaScript, Amazon Web Services, OmniAuth, PostgreSQL, Heroku, Rspec, Capybara, Google Maps API.
+|[Motivation](https://github.com/RobinHeathcote/Motivation.git)|Makers Academy final project. A rails back-end API and Angular.js front-end app using WOOP psychology to motivate users to achieve their wishes by making plans and outlining obstacles using a token authentication system.|Ruby on Rails, JSON, Angular.js, HTML, CSS, Materialise, Devise Token Auth, Ng-Token-Auth, PostgresSQL, Active Record, Protractor, Karma
 |[Instagram-clone](https://github.com/RobinHeathcote/instagram-challenge.git)|A clone of Instagram using Ruby on Rails|Ruby, Rspec, Rails, Paperclip, AWS, OmniAuth, CSS, HAML.|
 
 
