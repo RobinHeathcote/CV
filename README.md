@@ -6,7 +6,8 @@ An aspiring software craftsmen, with a “lets try this and see what happens” 
 
 Recently, I volunteered for a permaculture NGO in Zimbabwe as a media manager and project designer working with communities to set up projects towards capacity building and sustainability which is currently on hold as unfortunately it didn’t get funded before I ran out of money. 
 
-As a fresh graduate and survivor of Makers Academy Remote code bootcamp, I’m now looking for a organisation to work for that I can add value to and learn from in the process.
+As a fresh graduate and survivor of [Makers Academy](http://www.makersacademy.com) Remote code bootcamp, I’m now looking for a company to work for that I can add value to and continue my learning from in the process.
+
 
 ## Skills
 
