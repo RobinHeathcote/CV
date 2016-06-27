@@ -1,18 +1,20 @@
-## Robin Heathcote
+## Robin Heathcote|rbnheathcote@gmail.com
 [Github](https://github.com/RobinHeathcote) | [LinkedIn](https://uk.linkedin.com/in/robinheathcote) | [Blog](https://medium.com/@robin.heathcote) | [Strava](https://www.strava.com/athletes/3358592) | [VSCO](http://vsco.co/robiino/images/1)
 
 
-Born in Sheffield, UK with a “lets try this and see what happens” sort of philosophy especially when it comes to problem solving. A believer in calm brings clarity much needed when my team and I capsized in a stormy Caribbean Sea, loosing equipment and were about to be washed into the shoreline rocks. Recently, I volunteered for a permaculture NGO in Zimbabwe as a media manager and project designer working with communities to set up projects towards capacity building and sustainability which is currently on hold as unfortunately it didn’t get funded before I ran out of money. 
+An aspiring software craftsmen, with a “lets try this and see what happens” sort of philosophy especially when it comes to problem solving. I have always wanted to pick up a second language, so I learnt to code as it satisfies that thirst and also give me the infinite potential to create anything. 
 
-Now, following my interests in tech and an unquenchable thirst for how things work, led me to code. As a fresh graduate and survivor of Makers Academy Remote code bootcamp, I’m now looking for a organisation to work for that I can add value to and learn from in the process.
+Recently, I volunteered for a permaculture NGO in Zimbabwe as a media manager and project designer working with communities to set up projects towards capacity building and sustainability which is currently on hold as unfortunately it didn’t get funded before I ran out of money. 
+
+As a fresh graduate and survivor of Makers Academy Remote code bootcamp, I’m now looking for a organisation to work for that I can add value to and learn from in the process.
 
 ## Skills
 
 #### Programming through self-learning, un-learning and quick pick-up
 
-My Makers Academy experience taught me that I am in control of my own learning, and don’t expect to be spoon-fed, always be aware of how and what you are learning and the importance of cementing understanding through practice and trial and error. 
+My Makers Academy experience taught me that I am in control of my own learning. Through the intensive curriculum I learnt by overcoming obstacles, knowing how to articulate what is causing me to be stuck when asking for help and finding my own resources to solve my own problems. 
 
-Through Makers Academy I have had 12 weeks experience of regular  pair programming, stand-ups and weekly retro’s. Through this I have become a firm believer in regular reflection in an aim to improve learning and progress. 
+Through Makers Academy I have had 12 weeks experience of Agile methodologies and Extreme Programming practices such as: regular  pair programming, stand-ups and weekly retrospectives. Through this I have become a firm believer in regular reflection and feedback in an aim to improve learning and progress for myself and my team. 
 
 ##### Programming examples
 
@@ -20,7 +22,7 @@ Through Makers Academy I have had 12 weeks experience of regular  pair programmi
 |---|---|---|
 |[StreetFood](https://github.com/RobinHeathcote/streetFood.git)|A rails app for nomadic street food traders to be easily found by nearby potential customers.|Ruby on Rails, JavaScript, Amazon Web Services, OmniAuth, PostgreSQL, Heroku, Rspec, Capybara, Google Maps API.|
 |[Motivation](https://github.com/RobinHeathcote/Motivation.git)|Makers Academy final project. A rails back-end API and Angular.js front-end app using WOOP psychology to motivate users to achieve their wishes by making plans and outlining obstacles using a token authentication system.|Ruby on Rails, JSON, Angular.js, HTML, CSS, Materialise, Devise Token Auth, Ng-Token-Auth, PostgresSQL, Active Record, Protractor, Karma|
-|[Instagram-clone](https://github.com/RobinHeathcote/instagram-challenge.git)|A clone of Instagram using Ruby on Rails|Ruby, Rspec, Rails, Paperclip, AWS, OmniAuth, CSS, HAML.|
+|[Instagram-clone](https://github.com/RobinHeathcote/instagram-challenge.git)|A web-based clone of Instagram using Ruby on Rails|Ruby, Rspec, Rails, Paperclip, AWS, OmniAuth, CSS, HAML.|
 
 
 #### Effective communication
@@ -45,8 +47,8 @@ From writing countless History essays in my A-levels, my thesis at university, t
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Angular.js
+- Rspec, Jasmine, Karma, Protractor
 
 #### University of Edinburgh(September 2011 to July 2015)
 
@@ -62,5 +64,17 @@ From writing countless History essays in my A-levels, my thesis at university, t
 - Geography A
 - Environmental Science A
 - History B
+
+## Experience
+
+- J Brindon Addy Traditional Butcher & Grazier (September 2015 - present) Part time bakehouse assistant and till operator.
+
+-	Volunteer for PORET Livelihoods, Zimbabwe (2014-2016)
+			- Media manager and co-project manager.			
+
+- Tiso Outdoor Group Edinburgh, UK (2010 – 2014) Sales Assistant.
+	-	Explaining and finding the right products for a variety of outdoor pursuits.
+
+
 
 
