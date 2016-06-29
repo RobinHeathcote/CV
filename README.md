@@ -2,9 +2,9 @@
 [Github](https://github.com/RobinHeathcote) | [LinkedIn](https://uk.linkedin.com/in/robinheathcote) | [Blog](https://medium.com/@robin.heathcote) | [Strava](https://www.strava.com/athletes/3358592) | [VSCO](http://vsco.co/robiino/images/1)
 
 
-An aspiring software craftsmen, with a “lets try this and see what happens” sort of philosophy especially when it comes to problem solving. I have always wanted to pick up a second language, so I learnt to code as it satisfies that thirst and also give me the infinite potential to create anything. 
+An aspiring, self motivated, software craftsmen, with a “lets try this and see what happens” sort of philosophy especially when it comes to problem solving. I have always wanted to pick up a second language, so I learnt to code as it satisfies that thirst and also give me the infinite potential to create anything. 
 
-Recently, I volunteered for a permaculture NGO in Zimbabwe as a media manager and project designer working with communities to set up projects towards capacity building and sustainability which is currently on hold as unfortunately it didn’t get funded before I ran out of money. 
+Recently, I volunteered for a [permaculture](https://medium.com/@robin.heathcote/why-software-craftsmanship-keeps-reminding-me-of-permaculture-principles-df1b0a620619#.lxh505otp) NGO in Zimbabwe as a media manager (using Squarespace to create a website) and project designer requiring me to communicate with rural communities to design capacity building projects which is currently on hold as unfortunately I ran out of funds and decided to pursue my interests in software development. 
 
 As a fresh graduate and survivor of [Makers Academy](http://www.makersacademy.com) Remote code bootcamp, I’m now looking for a company to work for that I can add value to and continue my learning from in the process.
 
@@ -13,9 +13,9 @@ As a fresh graduate and survivor of [Makers Academy](http://www.makersacademy.co
 
 #### Programming through self-learning, un-learning and quick pick-up
 
-My Makers Academy experience taught me that I am in control of my own learning. Through the intensive curriculum I learnt by overcoming obstacles, knowing how to articulate what is causing me to be stuck when asking for help and finding my own resources to solve my own problems. 
+My Makers Academy experience taught me that I am in control of my own learning. The course was remote, requiring self-motivation and discipline and the ability to communicate with team members and pairs from all over the world. Through the intensive curriculum I learnt by overcoming obstacles, knowing how to articulate what is causing me to be stuck when asking for help and finding my own resources to solve my own problems. 
 
-Through Makers Academy I have had 12 weeks experience of Agile methodologies and Extreme Programming practices such as: regular  pair programming, stand-ups and weekly retrospectives. Through this I have become a firm believer in regular reflection and feedback in an aim to improve learning and progress for myself and my team. 
+Through Makers Academy I have had 16 weeks experience of Agile methodologies and Extreme Programming practices such as: pair programming every day, stand-ups and weekly retrospectives. Through this I have become a firm believer in regular reflection and feedback in an aim to improve learning and progress for myself and my team.
 
 ##### Programming examples
 
@@ -33,7 +33,7 @@ From writing countless History essays in my A-levels, my thesis at university, t
 - Volunteering in Zimbabwe I co-hosted small classes over 3-months to teach permaculture (and ethics based design system) to a group of local farmers, who had received poor education and to whom English wasn’t their first language. This taught me patience in explaining, and how to take complex ideas and work them into ways that help people understand. The attendees of the class are now working on their own projects based on what they learnt.
 - I also co-wrote Grant applications and a successful crowdfunding campaign for the NGO.
 
-- Travel blog post for  [Trakke bags](http://trakke.co.uk/in-the-wild-zimbabwe/)
+- Travel blog post for  [Trakke Adventure Journal](http://trakke.co.uk/in-the-wild-zimbabwe/)
 
 - A video I filmed and edited for [PORET’s education Project](https://www.youtube.com/watch?v=XKM-Yy9I9mw)
 
@@ -44,8 +44,8 @@ From writing countless History essays in my A-levels, my thesis at university, t
 
 #### Makers Academy (April 2016 to June 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Highly selective code bootcamp
+- Independent remote learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Angular.js
@@ -55,12 +55,12 @@ From writing countless History essays in my A-levels, my thesis at university, t
 
 - Environmental Geoscience
 - Grade: 2:1
-- For my thesis, I was part of a research team on a 6-week project in Mexico in association with Operation Wallacea to research impacts of tourism on marine health.
+- For my thesis, I was part of a research team on a 6-week project in Mexico in association with Operation Wallacea to research impacts of tourism on marine health. I was able to manage and analyse a large data set and visualise it using ArcGIS software. 
 - The course required multiple presentations based on my own research with the emphasis being on communicating in a way that would be understandable to listeners of different backgrounds.
 
 #### Sheffield College(September 2007 to July 2009)
 
-- A levels 
+##### A levels 
 
 - Geography A
 - Environmental Science A
